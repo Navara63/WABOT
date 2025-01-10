@@ -1,12 +1,12 @@
 {
-  "name": "ASITHA-MD",
+  "name": "SAMITHA-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SAMITHA-MD",
+    "stop": "pm2 stop SAMITHA-MD",
+    "restart": "pm2 restart SAMITHA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
